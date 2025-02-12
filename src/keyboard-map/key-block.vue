@@ -23,7 +23,7 @@ const { char, initials, finals, keyName } = defineProps<KeyboardItem>();
   border-radius: 2px;
   box-sizing: border-box;
   padding: 5px 10px;
-  border: 1px solid#d1d1d1;
+  border: 1px solid#999999;
   grid-column: span 4;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
 
